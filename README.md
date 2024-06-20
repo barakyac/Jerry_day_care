@@ -3,7 +3,7 @@
 ADT Jerry Day care project
 
 This project includes creating full day care center for every jerry as well as creating Jerry as much as the user wants.
-The program recieve a file with the same structure as the file called "comfiguration file" and the output is similar to the "output" file. 
+The program recieve a file with the same structure as the file called "configuration file" and the output is similar to the "output" file. 
 Many parts of the project is generic ADT, and the explanation for the structure is listed below.
 
 
